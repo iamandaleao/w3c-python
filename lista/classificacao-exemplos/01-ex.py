@@ -6,4 +6,6 @@ thislist = ["orange", "manga", "kiwi", "pineapple", "banana"]
 thislist.sort()
 print(thislist)
 
+# Retorno: ['banana', 'kiwi', 'mango', 'orange', 'pineapple']
+
 

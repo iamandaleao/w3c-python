@@ -6,3 +6,7 @@
 thislist = ["orange", "manga", "kiwi", "pineapple", "banana"]
 thislist.sort(reverse = True)
 print(thislist)
+
+# Retorno: ['pineapple', 'orange', 'mango', 'kiwi', 'banana']
+
+
