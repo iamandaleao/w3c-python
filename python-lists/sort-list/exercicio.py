@@ -6,7 +6,7 @@ mylist.order()
 mylist.sort()
 
 mylist.sort()
-→ Este é o método oficial que ordena a lista no lugar (modifica a lista original).
+→ Este é o jeito oficial que ordena a lista no lugar (modifica a lista original).
 '''
 
 # Exemplo:

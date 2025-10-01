@@ -1,7 +1,7 @@
 '''
 Classificação sem distinção entre maiúsculas e minúsculas
 
-O método .sort() organiza a lista em ordem alfabética crescente (A → Z).
+O .sort() organiza a lista em ordem alfabética crescente (A → Z).
 Cuidado: no Python, as letras maiúsculas têm prioridade sobre as minúsculas, porque a comparação segue a tabela Unicode.
 
 Ordem Unicode:

@@ -1,7 +1,7 @@
 '''
 Ordem reversa
 E se você quiser inverter a ordem de uma lista, independentemente do alfabeto?
-O reverse()método inverte a ordem de classificação atual dos elementos.
+O reverse() inverte a ordem de classificação atual dos elementos.
 Exemplo: Inverta a ordem dos itens da lista:
 '''
 
